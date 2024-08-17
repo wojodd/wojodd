@@ -1,9 +1,9 @@
-![Headerr](![image](https://github.com/user-attachments/assets/641d5d2d-2033-4eb9-8349-0c428ec973cc)
+![Headerr]((https://github.com/user-attachments/assets/641d5d2d-2033-4eb9-8349-0c428ec973cc)
 )
 
 
 <h1 align="center">Hi 👋, I'm Wojod</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wojodd&label=Profile%20views&color=0e75b6&style=flat" alt="wojodd" /> </p>
 
