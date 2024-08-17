@@ -1,4 +1,5 @@
-![Headerr](https://user-images.githubusercontent.com/86664682/177192144-b2d13578-b9ea-41b4-b8b4-af43ab65d815.png)
+![Headerr](![image](https://github.com/user-attachments/assets/641d5d2d-2033-4eb9-8349-0c428ec973cc)
+)
 
 
 <h1 align="center">Hi 👋, I'm Wojod</h1>
@@ -10,9 +11,9 @@
 
 - 🎓 I'm a fresh graduate of Computer Science and Information Technology
 
-- 🌱 I’m currently learning **Laravel with PHP**
+- 🌱 I’m currently learning **Data Science & AI **
 
-- 💬 Ask me about **PHP, MySQL**
+- 💬 Ask me about **Database,SQL**
 
 - 📫 How to reach me **wojodalzahraniii@gmail.com**
 
