@@ -11,7 +11,7 @@
 
 - 🎓 I'm a fresh graduate of Computer Science and Information Technology
 
-- 🌱 I’m currently learning **Data Science & AI **
+- 🌱 I’m currently learning **Data Science & AI**
 
 - 💬 Ask me about **Database,SQL**
 
